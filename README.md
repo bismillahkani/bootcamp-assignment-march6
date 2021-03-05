@@ -1,6 +1,4 @@
-# neural-network-numpy
-
-Bootcamp Assignment March 06th
+# Bootcamp Assignment March 06th
 
 - Paper Summary - paper_summary_march6.pdf
 - Two layer NN code - neural_network_numpy.py
